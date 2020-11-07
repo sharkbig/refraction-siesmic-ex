@@ -9,3 +9,6 @@ Next, determine the cross-over distance of the direct wave and refraction wave, 
 Third, save the refraction wave data as the format of example file: layer2.csv. (column: shot father; row: receiver gather)
 And run the script as the guide in the layer2_inversion.py.
 
+![image](https://github.com/sharkbig/refraction-siesmic-ex/edit/main/result.png)
+
+
